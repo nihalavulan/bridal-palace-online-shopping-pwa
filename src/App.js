@@ -3,10 +3,9 @@ import React from 'react';
 
 function App() {
   return (
-    <div className="App">
-      Bridal shopping app
-    </div>
+    <h1>Bridal palace</h1>
   );
 }
+
 
 export default App;
